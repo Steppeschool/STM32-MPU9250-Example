@@ -5,6 +5,7 @@ In addition, timer update interupt was used to control the sampling frequency.
 
 Datasheet MPU9250: https://invensense.tdk.com/wp-content/uploads/2015/02/PS-MPU-9250A-01-v1.1.pdf
 Register map: https://invensense.tdk.com/wp-content/uploads/2015/02/RM-MPU-9250A-00-v1.6.pdf
+
 STM32 board in this project: Nucleo-l476rg 
 
 The video tutorial of this code can be found on this link:
